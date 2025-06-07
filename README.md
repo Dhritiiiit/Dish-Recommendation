@@ -1,1 +1,2 @@
 # Dish-Recommendation
+The Dish Recommendation System is a personal project designed to recommend food dishes based on user inputs—either a dish name or an image—while incorporating dietary preferences like vegetarian or spicy. It leverages multi-modal deep learning by processing images with ResNet and text with BERT, clusters dishes using HDBSCAN, and retrieves recommendations efficiently with FAISS. The system is deployed as an interactive web app using Streamlit, allowing users to explore personalized dish suggestions.
